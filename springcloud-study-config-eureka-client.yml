@@ -9,7 +9,7 @@ server:
 spring:
   profile: dev
   application:
-  name: springcloud-config-eureka-client
+    name: springcloud-config-eureka-client
 #客户端注册进eureka服务列表
 eureka:
   instance:
